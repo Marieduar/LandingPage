@@ -1,0 +1,29 @@
+header div{
+    background-color: rgb(58, 58, 58);
+    height: 100px;
+}
+
+h4{
+    color: white;
+    margin-left: 10px;
+}
+
+p{
+    color: whitesmoke;
+    margin-left: 10px;
+}
+
+ul{
+    margin-left: 950px;
+    margin-top: -60px;
+}
+
+main div{
+    background-color: whitesmoke;
+    height: 800px;
+}
+
+h5{
+    color: black;
+    margin-left: 10px;
+}
